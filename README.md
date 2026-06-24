@@ -215,22 +215,18 @@ Full-stack web application for managing student and administrative operations.
 
 ---
 
-# 🎯 2026 Goals
+# 🌟 Areas of Interest
 
-✅ Maintain 8+ CGPA
-
-✅ Build Advanced AI Projects
-
-✅ Create RAG-Based Applications
-
-✅ Strengthen Machine Learning Skills
-
-✅ Improve Problem Solving
-
-✅ Build Production-Ready Applications
-
-✅ Become Industry Ready
-
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Full-Stack Development
+- Cloud Computing
+- Database Systems
+- Real-Time Applications
+- Software Architecture
+- Intelligent Automation
 ---
 
 # 📈 GitHub Statistics
