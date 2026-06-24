@@ -72,6 +72,20 @@ Passionate about Artificial Intelligence, Machine Learning, Cloud Technologies, 
 
 ---
 
+## Computer Science Fundamentals
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
+
+### Experience With
+
+* Data Structures
+* Algorithms
+* Problem Solving
+* Object-Oriented Programming
+
+---
+
 ## Database & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -101,7 +115,7 @@ Passionate about Artificial Intelligence, Machine Learning, Cloud Technologies, 
 
 ![RAG Systems](https://img.shields.io/badge/RAG%20Systems-Learning-green?style=for-the-badge)
 
-![Node.js Backend Development](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
 ---
 
@@ -150,7 +164,6 @@ Machine Learning application that predicts travel budget categories based on use
 * Pandas
 * NumPy
 * LightGBM
-* Scikit-Learn
 
 ---
 
@@ -208,7 +221,7 @@ Full-stack web application for managing student and administrative operations.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix066\&show_icons=true\&theme=tokyonight)
 
@@ -218,17 +231,11 @@ Full-stack web application for managing student and administrative operations.
 
 # 📫 Connect With Me
 
-📧 Email
+📧 Email: **[felixdaniejose06@gmail.com](mailto:felixdaniejose06@gmail.com)**
 
-[felixdaniejose06@gmail.com](mailto:felixdaniejose06@gmail.com)
+💼 LinkedIn: **https://www.linkedin.com/in/felix-danie-jose-72b20133a**
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/felix-danie-jose-72b20133a
-
-💻 GitHub
-
-https://github.com/Felix066
+💻 GitHub: **https://github.com/Felix066**
 
 ---
 
