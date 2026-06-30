@@ -101,7 +101,7 @@ Passionate about Artificial Intelligence, Machine Learning, Cloud Technologies, 
 
 ---
 
-## Tools & Platforms
+
 
 ## Tools & Platforms
 
